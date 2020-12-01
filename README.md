@@ -25,8 +25,9 @@ simply run:
 
 <code>
     docker exec -ti php sh
-    composer install
 </code>
+
+Then run <code>composer install</code> within the php container.
 
 ## About
 
