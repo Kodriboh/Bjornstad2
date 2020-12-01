@@ -1,0 +1,60 @@
+[01-Dec-2020 22:25:12 UTC] Uncaught exception: 'ErrorException' with message 'Undefined index: url'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Error::errorHandler(8, 'Undefined index...', '/var/www/html/p...', 21, Array)
+#1 {main}
+Thrown in '/var/www/html/public/index.php' on line 21
+[01-Dec-2020 22:25:12 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:25:14 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:25:14 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:25:24 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:25:26 UTC] Uncaught exception: 'ErrorException' with message 'Undefined index: url'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Error::errorHandler(8, 'Undefined index...', '/var/www/html/p...', 21, Array)
+#1 {main}
+Thrown in '/var/www/html/public/index.php' on line 21
+[01-Dec-2020 22:25:26 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:26:16 UTC] Uncaught exception: 'ErrorException' with message 'Undefined index: url'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Error::errorHandler(8, 'Undefined index...', '/var/www/html/p...', 21, Array)
+#1 {main}
+Thrown in '/var/www/html/public/index.php' on line 21
+[01-Dec-2020 22:26:16 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:26:22 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:26:35 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:26:37 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:31:07 UTC] Uncaught exception: 'ErrorException' with message 'Undefined index: url'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Error::errorHandler(8, 'Undefined index...', '/var/www/html/p...', 21, Array)
+#1 {main}
+Thrown in '/var/www/html/public/index.php' on line 21
+[01-Dec-2020 22:31:07 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/var/www/html/Core/Router.php' on line 126
+[01-Dec-2020 22:36:22 UTC] Uncaught exception: 'ErrorException' with message 'Undefined index: url'
+Stack trace: #0 /var/www/html/public/index.php(21): Core\Error::errorHandler(8, 'Undefined index...', '/var/www/html/p...', 21, Array)
+#1 {main}
+Thrown in '/var/www/html/public/index.php' on line 21
