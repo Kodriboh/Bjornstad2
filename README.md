@@ -1,4 +1,21 @@
-# Bjornstad 2
+# Bjornstad2
+## Usage
+
+Bjornstad2 works as a standalone framework. Create a .env file from the .env.example, these variables are used throughout the framework via [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv).
+
+Bjornstad2 can be used with the official Docker stack created specifically for projects using this framework. 
+The current stack consists of: mysql, nginx, phpmyadmin, php
+more stacks may be added in the future.
+
+You can either simply pull this repository into your own project files or alternatively pull the [Bjornstad2 Containers](https://github.com/Kodriboh/Bjornstad2-Containers) then pull this project into the src folder.
+
+To build the containerised project, create .env files from the .env.examples containing your environment variables and run:
+
+<code>
+    docker-compose up --build -d 
+</code>
+
+in the containers root. 
 
 ## About
 
