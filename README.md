@@ -9,13 +9,11 @@ more stacks may be added in the future.
 
 You can either simply pull this repository into your own project files or alternatively pull the [Bjornstad2 Containers](https://github.com/Kodriboh/Bjornstad2-Containers) then pull this project into the src folder.
 
-To build the containerised project, create .env files from the .env.examples containing your environment variables and run:
+To build the containerised project, create .env files from the .env.examples containing your environment variables and run the following command in the project root:
 
 <code>
     docker-compose up --build -d 
 </code>
-
-in the containers root. 
 
 ## Using Composer
 
